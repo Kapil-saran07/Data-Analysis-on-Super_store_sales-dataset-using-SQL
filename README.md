@@ -32,21 +32,3 @@ This project provides **data-driven answers** to these questions using powerful 
 10. **What are the average order values** across segments, states, and categories?
 
 ---
-
-## 📊 SQL Queries Used
-
-All SQL scripts are optimized for **PostgreSQL** and categorized for clarity.
-
-| File Name                            | Description                               |
-|-------------------------------------|-------------------------------------------|
-| `01_basic_analysis.sql`             | Total sales, orders by region, category   |
-| `02_intermediate_analysis.sql`      | Customer value, profit margins, segments  |
-| `03_advanced_analysis.sql`          | Shipping delays, discount-profit link     |
-| `04_loss_making_products.sql`       | Products consistently generating losses   |
-| `05_monthly_trends.sql`             | Date/time-based sales and shipping trends |
-
-> Each SQL file includes detailed comments for ease of understanding.
-
----
-
-## 🗂️ Project Folder Structure
